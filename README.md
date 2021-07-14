@@ -19,3 +19,7 @@ No caso dos dados serem minimamente satisfatórios em termos de qualidade e sign
 O protótipo não representa um produto final, pois dependerá da infra-estrutura que cada cidade disponibiliza em ambiente de produção e adaptações serão necessárias. Detalhamos as principais adaptações nos capítulos seguintes.
 
 O relatório [Congestionamento_v2.pdf](https://github.com/diluisi/BID/blob/main/Congestionamento_v2.pdf) contém os detalhes da análise e como executar os arquivos do protótipo.
+
+Abaixo está a visão geral da arquitetura:
+
+![image](https://user-images.githubusercontent.com/6492834/125698215-cc2f93e2-eb5b-41ad-8bb4-6500df0480d2.png)
