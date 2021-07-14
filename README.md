@@ -16,7 +16,7 @@ No caso dos dados serem minimamente satisfatórios em termos de qualidade e sign
 * Escalabilidade da monitoração;
 * Baixo custo.
 
-O protótipo não representa um produto final, pois dependerá da infra-estrutura que cada cidade disponibiliza em ambiente de produção e adaptações serão necessárias. Detalhamos as principais adaptações nos capítulos seguintes.
+O protótipo não representa um produto final, pois dependerá da infra-estrutura que cada cidade disponibiliza em ambiente de produção e adaptações serão necessárias. Detalhamos as principais adaptações na documentação final.
 
 O relatório [Congestionamento_v2.pdf](https://github.com/diluisi/BID/blob/main/Congestionamento_v2.pdf) contém os detalhes da análise e como executar os arquivos do protótipo.
 
