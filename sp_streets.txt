@@ -1,0 +1,692 @@
+new_street,street
+AV DR ABRAAO RIBEIRO,Av. Dr. Abraão Ribeiro
+AV PROF ABRAAO DE MORAIS,Av. Prof. Abraão de Morais
+AV DAS ACACIAS,Av. das Acácias
+AV DA ACLIMACAO,Av. da Aclimação
+R DO ACRE,R. do Acre
+AV ADOLFO PINHEIRO,Av. Adolfo Pinheiro
+AV ADUTORA DO RIO CLARO,Av. Adutora do Rio Claro
+AV AFRANIO PEIXOTO,Av. Afrânio Peixoto
+AV AGENOR COUTO DE MAGALHAES,Av. Agenor Couto de Magalhães
+R AGUA RASA,R. Água Rasa
+AV DR ALBERTO PENTEADO,Av. Dr. Alberto Penteado
+AV ALCANTARA MACHADO,Av. Alcântara Machado
+AV ALCANTARA MACHADO,Av. Alcântara Machado - Pista Lateral
+AV ALCANTARA MACHADO,Av. Alcântara Machado - Pista Central
+VD ALCANTARA MACHADO,Vd. Alcântara Machado
+AV PROF ALCIDES SANGIRARDI,Av. Alcides Sangirardi
+R ALFREDO PUJOL,R. Alfredo Pujol
+R PRES ALMEIDA COUTO,R. Pres. Almeida Couto
+AV PRES ALTINO,Av. Pres. Altino
+ES DO ALVARENGA,Est. do Alvarenga
+R ALVARENGA,R. Alvarenga
+AV ALVARO MACHADO PEDROSA,Av. Álvaro Machado Pedrosa
+AV ALVARO RAMOS,Av. Álvaro Ramos
+R ALVES DOS SANTOS,R. Alves dos Santos
+R ALVINOPOLIS,R. Alvinópolis
+R AMADOR BUENO,R. Amador Bueno
+AV AMADOR BUENO DA VEIGA,Av. Amador Bueno da Veiga
+R AMARAL GURGEL,R. Amaral Gurgel
+AL STO AMARO,Al. Santo Amaro
+AV STO AMARO,Av. Santo Amaro - Pista Dir.
+AV STO AMARO,Av. Santo Amaro
+AV STO AMARO,Av. Santo Amaro - Pista Esq.
+R GAL AMERICANO FREIRE,R. Gen. Americano Freire
+AV DO ANASTACIO,Av. do Anastácio
+AV DO ANASTACIO,Vd. do Anastácio
+AV ANGELICA,Av. Angélica
+PQ ANHANGABAU,Vale do Anhangabaú
+R ANITA GARIBALDI,R. Anita Garibaldi
+R DR ANTONIO BENTO,R. Dr. Antônio Bento
+AV ANTONIO ESTEVAO DE CARVALHO,Av. Antônio Estevão de Carvalho
+R ANTONIO MARCONDES,R. Antônio Marcondes
+R GIUSEPPE BOSCHI,R. Giuseppe Boschi
+R CARD ARCOVERDE,R. Cardeal Arcoverde
+R ARI APS,R. Ari Aps
+AV ARICANDUVA,Av. Aricanduva - Pista Central
+AV ARICANDUVA,Ponte Aricanduva
+AV ARICANDUVA,Av. Aricanduva
+AV ARICANDUVA,Av. Aricanduva - Pista Local
+AV ARISTON AZEVEDO,Av. Ariston Azevedo
+AV PDE ARLINDO VIEIRA,Av. Pe. Arlindo Vieira
+AV ENG ARMANDO DE ARRUDA PEREIRA,Av. Eng. Armando de Arruda Pereira
+AV DR ARNALDO,Av. Dr. Arnaldo
+AV ARNO,Av. Arno
+AV ARNOLFO AZEVEDO,Av. Arnolfo Azevedo
+R PROF ARISTOBULO DE FREITAS,R. Prof. Aristóbulo de Freitas
+AV PROF ASCENDINO REIS,Av. Prof. Ascendino Reis
+R ASDRUBAL DO NASCIMENTO,R. Asdrúbal do Nascimento
+R ASSEMBLEIA,R. Assembleia
+AV ASSIS CHATEAUBRIAND,Av. Assis Chateaubriand
+AV ASSIS CHATEAUBRIAND,Av. Assis Chateaubriand - Pista Central
+R DR ASSIS RIBEIRO,R. Dr. Assis Ribeiro
+AV GAL ATALIBA LEONEL,Av. Gen. Ataliba Leonel
+AV ATLANTICA,Av. Atlântica
+R AUGUSTA,R. Augusta
+LG MEST DE AVIZ,Lg. Mestre de Aviz
+R BAIRI,R. Bairi
+R BALSA,R. Balsa
+ES DA BARONESA,Est. Da Baronesa
+R BARTOLOMEU DO CANTO,R. Bartholomeu do Canto
+R MAJ BASILIO,R. Maj. Basílio
+R PDE BENEDITO DE CAMARGO,R. Pe. Benedito de Camargo
+R BENEDITO LEITE DE AVILA,R. Benedito Leite de Ávila
+R BERALDO MARCONDES,R. Beraldo Marcondes
+AV BERNARDINO DE CAMPOS,Av. Bernardino de Campos
+AV ENG BILLINGS,Av. Eng. Billings
+AV BOLONHA,Av. Bolonha
+R BOM PASTOR,R. Bom Pastor
+R BORBA GATO,R. Borba Gato
+R BORGES LAGOA,R. Borges Lagoa
+AV DONA BELMIRA MARIN,Av. Dona Belmira Marin
+AV BRASIL,Av. Brasil
+AV BRAS DE ABREU,Av. Brás de Abreu
+AV BRAZ LEME,Av. Braz Leme
+R DOS BRASOES,R. dos Brasões
+R BRESSER,R. Bresser
+R BUTANTA,R. Butantã
+AV INAJAR DE SOUZA,Av. Inajar de Souza
+AV ENG CAETANO ALVARES,Av. Eng. Caetano Álvares
+AV CIPRIANO RODRIGUES,Av. Cipriano Rodrigues
+R CAMARGO,R. Camargo
+LG DO CAMBUCI,Lg. do Cambuci
+R CAMPO BELO,R. Campo Belo
+AV MARIO LOPES LEAO,Av. Mário Lopes Leão
+AV CANGAIBA,Av. Cangaiba
+R COMEN CANTINHO,R. Comendador Cantinho
+AV ZAKI NARCHI,Av. Zaki Narchi
+VD S CARLOS,Vd. São Carlos
+AV CARLOS DE CAMPOS,Av. Carlos de Campos
+R CARLOS GOMES,R. Carlos Gomes
+R CARLOS VICARI,R. Carlos Vicari
+AV CONS CARRAO,Av. Conselheiro Carrão
+AV CASA VERDE,Av. Casa Verde
+AV PRES CASTELO BRANCO,Av. Pres. Castelo Branco
+AV PRES CASTELO BRANCO,Pista Expressa Marg. Tietê
+R CATIGUA,R. Catiguá
+AV DUQ DE CAXIAS,Av. Duque de Caxias
+AV CAXINGUI,Av. Caxingui
+AV PROF CELESTINO BOURROUL,Av. Prof. Celestino Bourroul
+AV CELSO GARCIA,Av. Celso Garcia
+R CERRO CORA,R. Cerro Corá
+R CHICO PONTES,R. Chico Pontes
+AV CIDADE JARDIM,Av. Cidade Jardim
+R CIRO SOARES DE ALMEIDA,R. Ciro Soares de Almeida
+R CLELIA,R. Clélia
+R CLIMACO BARBOSA,R. Clímaco Barbosa
+R FREDERICO RENE DE JAEGHER,R. Frederico Rene de Jaegher
+R COLOMBIA,R. Colômbia
+LG DA CONCORDIA,Lg. da Concórdia
+R DA CONSOLACAO,R. da Consolação
+R DA CONSOLACAO,R. da Consolação - Pista Dir.
+R DA CONSOLACAO,R. da Consolação - Pista Esq.
+AV CORIFEU DE AZEVEDO MARQUES,Av. Corifeu de Azevedo Marques
+R PDE CORREIA DE ALMEIDA,R. Pe. Correia de Almeida
+ES DO CORREDOR,Est. do Corredor
+VEL PRES ARTHUR DA COSTA E SILVA,Elevado Pres. João Goulart
+AV CRUZEIRO DO SUL,Av. Cruzeiro do Sul
+AV CUPECE,Av. Cupecê
+AV DO CURSINO,Av. do Cursino
+R CURUCA,R. Curuçá
+AV DANFER,Av. Danfer
+AV ALM DELAMARE,Av. Alm. Delamare
+AV DEZENOVE DE JANEIRO,Av. 19 de Janeiro
+R DIANOPOLIS,R. Dianópolis
+AV GAL EDGAR FACO,Av. Gen. Edgar Facó
+R DOMINGOS DE MORAIS,R. Domingos de Morais
+VD DOMINGOS DE MORAES,Vd. Domingos de Morais
+AV DAS NACOES UNIDAS,Av. das Nações Unidas
+AV DR EDUARDO COTCHING,Av. Dr. Eduardo Cotching
+AV ELLIS MAAS,Av. Ellis Maas
+AV CDSSA ELISABETH DE ROBIANO,Av. Condessa Elisabeth de Robiano
+AV MARQ DE SAO VICENTE,Av. Marquês de São Vicente
+AV ERMANO MARCHETTI,Av. Ermano Marchetti
+AV DO ESTADO,Av. do Estado - Pista Central
+AV DO ESTADO,Av. do Estado - Pista Dir.
+R ESTELA,R. Estela
+AV ESTEVAO DE ALBUQUERQUE,Av. Estevão de Albuquerque
+R STA EULALIA,R. Santa Eulália
+AV EUROPA,Av. Europa
+AV EUSEBIO MATOSO,Av. Eusébio Matoso
+AV BRIG FARIA LIMA,Av. Brigadeiro Faria Lima
+AV REG FEIJO,Av. Regente Feijó
+R FREI FIDELIS MOTA,R. Frei Fidélis Mota
+R DA FIGUEIRA,R. da Figueira
+R FIORELLI PECCICACCO,Av. Fiorelli Peccicacco
+R DR FLAVIO AMERICO MAURANO,R. Dr. Flávio Américo Maurano
+AV PROF FONSECA RODRIGUES,Av. Prof. Fonseca Rodrigues
+AV FRANCISCO MATARAZZO,Túnel Av. Francisco Matarazzo
+AV FRANCISCO MATARAZZO,Av. Francisco Matarazzo
+AV DR FRANCISCO MESQUITA,Av. Dr. Francisco Mesquita
+AV PROF FRANCISCO MORATO,Av. Prof. Francisco Morato
+AV CD DE FRONTIN,Av. Conde de Frontin
+R FUNCHAL,R. Funchal
+AV GAL FURTADO NASCIMENTO,Av. Gen. Furtado do Nascimento
+AV S GABRIEL,Av. São Gabriel
+AV GABRIELA MISTRAL,Av. Gabriela Mistral
+R DO GASOMETRO,R. do Gasômetro
+VD GASOMETRO,Vd. do Gasômetro
+AV GASPAR VAZ DA CUNHA,Av. Gaspar Vaz da Cunha
+AV DR GASTAO VIDIGAL,Av. Dr. Gastão Vidigal
+R BRIG GAVIAO PEIXOTO,R. Brig. Gavião Peixoto
+AV DR GENTIL DE MOURA,Av. Dr. Gentil de Moura
+AV SARG GERALDO SANT ANA,Av. Sarg. Geraldo Santana
+R GERIVATIBA,R. Gerivatiba
+AV GIOVANNI GRONCHI,Av. Giovanni Gronchi
+R GLICERIO,R. do Glicério
+R GROENLANDIA,R. Groenlândia
+VD GUADALAJARA,Vd. Guadalajara
+R GUAICURUS,R. Guaicurus
+AV S GUALTER,Av. São Gualter
+AV GUAPIRA,Av. Guapira
+AV GUARAPIRANGA,Av. Guarapiranga
+AV GUILHERME COTCHING,Av. Guilherme Cotching
+VD GUILHERME DE ALMEIDA,Vd. Guilherme de Almeida
+AV DR GUILHERME DUMONT VILARES,Av. Dr. Guilherme Dumont Villares
+AV ENG HEITOR ANTONIO EIRAS GARCIA,Av. Eng. Heitor Antônio Eiras Garcia
+R HEITOR PENTEADO,R. Heitor Penteado
+AV IBIRAPUERA,Av. Ibirapuera
+R IBITIRAMA,R. Ibitirama
+R IGUATEMI,R. Iguatemi
+R DA INDEPENDENCIA,R. da Independência
+AV INDIANOPOLIS,Av. Indianópolis
+AV STA INES,Av. Santa Inês
+R INHAMBU,R. Inhambú
+AV INTERLAGOS,Av. Interlagos
+AV IPIRANGA,Av. Ipiranga
+AV IPIRANGA,Av. Ipiranga - Pista Esq.
+AV IPIRANGA,Av. Ipiranga - Pista Dir.
+R ISABEL SCHMIDT,R. Isabel Schmidt
+R ITAJOBI,R. Itajobi
+ES DE ITAPECERICA,Est. de Itapecerica
+R ITAPOLIS,R. Itápolis
+AV ADELIA CHOHFI,Av. Adélia Chohfi
+R ITUVERAVA,R. Ituverava
+AV JABAQUARA,Av. Jabaquara
+VD JACAREI,Vd. Jacareí - Pista Esq.
+VD JACAREI,Vd. Jacareí
+VD JACAREI,Vd. Jacareí - Pista Dir.
+AV PIRES DO RIO,Vd. Pires do Rio
+AV JAGUARE,Av. Jaguaré
+R ATALEIA,R. Ataléia
+R JAVORAU,R. Javoraú
+R JEROAQUARA,R. Jeroaquara
+AV S JOAO,Av. São João
+R JOAO ALFREDO,R. João Alfredo
+R JOAO BOEMER,R. João Boemer
+AV JOAO DIAS,Av. João Dias
+PC DR JOAO MENDES,Pç. Dr. João Mendes
+ES DOM JOAO NERY,Est. D. João Nery
+R JOAO PASSALAQUA,R. João Passaláqua
+AV JOAO PEDRO CARDOSO,Av. João Pedro Cardoso
+R DR JOAO RIBEIRO,R. Dr. João Ribeiro
+AV JOAO SIMAO DE CASTRO,Av. João Simão de Castro
+R JOAO TEODORO,R. João Teodoro
+AV JOAO XXIII,Av. João XXIII
+AV ANTONIO J. DE MOURA ANDRADE,Av. Antônio Joaquim de Moura Andrade
+AV JOAQUINA RAMALHO,Av. Joaquina Ramalho
+AV PEDRO ALVARES CABRAL,Av. Pedro Álvares Cabral
+AV DR JOSE ARTUR NOVA,Av. Dr. José Artur Nova
+R JOSE CHIMENTI,R. José Chimenti
+AV VER JOSE DINIZ,Av. Ver. José Diniz
+AV SEN JOSE ERMIRIO DE MORAES,Av. Sen. José Ermírio de Moraes
+R JOSE GUERRA,R. José Guerra
+AV PDE JOSE MARIA,R. Pe. José Maria
+R JOSE MONTEIRO,R. José Monteiro
+R JULIO COLACO,R. Júlio Colaço
+R BR DE JUNDIAI,R. Barão de Jundiaí
+R JUNQUEIRA FREIRE,R. Junqueira Freire
+AV JUNTAS PROVISORIAS,R. das Juntas Provisórias
+R JUSTO AZAMBUJA,R. Justo Azambuja
+AV LACERDA FRANCO,Av. Lacerda Franco
+AV NORDESTINA,Av. Nordestina
+ES DO LAGEADO VELHO,Est. do Lageado Velho
+ES DAS LAGRIMAS,Est. das Lágrimas
+AV MIN LAUDO FERREIRA DE CAMARGO,Av. Min. Laudo Ferreira de Camargo
+R DO LAVAPES,R. do Lavapés
+R LEAIS PAULISTANOS,R. Leais Paulistanos
+VD JULIO DE MESQUITA FILHO,Vd. Júlio Mesquita Filho
+AV DA LIBERDADE,Av. da Liberdade
+AV LINEU DE PAULA MACHADO,Av. Lineu de Paula Machado
+AV LINS DE VASCONCELOS,Av. Lins de Vasconcelos
+AV LOURENCO CABREIRA,Av. Lourenço Cabreira
+R DOM LUCAS OBES,R. D. Lucas Obes
+AV S LUIS,Av. São Luís - Pista Dir.
+AV S LUIS,Av. São Luís - Pista Esq.
+AV S LUIS,Av. São Luís
+R DR LUIZ AYRES,R. Dr. Luís Aires
+AV BRIG LUIS ANTONIO,Av. Brig. Luís Antônio
+AV ENG LUIZ CARLOS BERRINI,Av. Eng. Luís Carlos Berrini
+R LUIS GAMA,R. Luís Gama
+AV LUIS STAMATIS,Av. Luís Stamatis
+AV PRES JUSCELINO KUBITSCHEK,Av. Pres. Juscelino Kubitschek
+R NORMA PIERUCCINI GIANNOTTI,R. Norma Pieruccini Giannotti
+AV EMB MACEDO SOARES,Av. Embaixador Macedo Soares
+AV MAGALHAES DE CASTRO,Av. Magalhães de Castro
+R MAIRINQUE,R. Mairinque
+AV MANDAQUI,Av. Mandaqui
+AV MONS MANFREDO LEITE,Av. Mons. Manfredo Leite
+R MANIFESTO,R. do Manifesto
+R MANUEL GAYA,R. Manuel Gaya
+AV PROF MANUEL JOSE CHAVES,Av. Prof. Manuel José Chaves
+R MANUEL RAMOS PAIVA,R. Manuel Ramos Paiva
+R MANUEL DE TEFFE,R. Manuel de Teffé
+R MARATONA,R. Maratona
+AV MAJ SYLVIO DE MAGALHAES PADILHA,Av. Maj. Sylvio de Magalhães Padilha
+AV MARGINAL DIREITA ANCHIETA,V. Anchieta Marg. N
+AV MARGINAL ESQUERDA ANCHIETA,V. Anchieta Marg. S
+R INACIO LUIS DA COSTA,R. Inácio Luís da Costa
+AV CHAFARIZ DAS SARACURAS,Av. Chafariz das Saracuras
+AV BARRA DO RIO AZUL,Av. Barra do Rio Azul
+AV BANDEIRANTES DO SUL,Av. Bandeirantes do Sul
+AV MARIO HABERFELD,Av. Mário Haberfeld
+R MARIA AMALIA LOPES AZEVEDO,R. Maria Amália Lopes Azevedo
+R MARIA PAULA,R. Maria Paula - Pista Dir.
+R MARIA PAULA,R. Maria Paula
+R MARIA PAULA,R. Maria Paula - Pista Esq.
+AV MARIA COELHO AGUIAR,Av. Maria Coelho Aguiar
+AV COMEN MARTINELLI,Av. Comendador Martinelli
+R MARTINS FONTES,R. Martins Fontes
+AV MATEO BEI,Av. Mateo Bei
+AV MATIAS BECK,Av. Matias Beck
+R DA MATRIZ,R. da Matriz
+LG DA MATRIZ DE NOSSA SENHORA DO O,Lg. da Matriz de N. Sra. do Ó
+LG DA MATRIZ VELHA,Lg. da Matriz de N.Sra. do Ó
+R MAUA,R. Mauá
+R MELO PEIXOTO,R. Melo Peixoto
+AV MERCURIO,Av. Mercúrio - Pista Dir.
+AV MERCURIO,Av. Mercúrio
+AV MERCURIO,Av. Mercúrio - Pista Esq.
+AV S MIGUEL,Av. São Miguel
+AV MIGUEL FRIAS E VASCONCELOS,Av. Miguel Frias e Vasconcelos
+ES DE MOGI DAS CRUZES,Estr. de Mogi das Cruzes
+R MONTE PASCAL,R. Monte Pascal
+R DA MOOCA,R. da Mooca
+AV MORUMBI,Av. Morumbi
+AV MORVAN DIAS DE FIGUEIREDO,Ac. Av. Morvan Dias de Figueiredo
+AV MORVAN DIAS DE FIGUEIREDO,Pista Central Marg. Tietê
+AV MORVAN DIAS DE FIGUEIREDO,Av. Morvan Dias de Figueiredo
+AV MUTINGA,Av. Mutinga
+AV DOS NACIONALISTAS,Av. dos Nacionalistas
+R MAJ NATANAEL,R. Maj. Natanael
+AV NAZARE,Av. Nazaré
+R DR NETO DE ARAUJO,R. Dr. Neto de Araújo
+AV PROF NOE AZEVEDO,Av. Prof. Noé Azevedo
+R NORDESTINO,R. Nordestino
+R NSRA DA LAPA,R. N. Sra. da Lapa
+AV ESCOLA POLITECNICA,Av. Escola Politécnica - Pista Dir.
+AV ESCOLA POLITECNICA,Av. Escola Politécnica
+AV ESCOLA POLITECNICA,Av. Escola Politécnica - Pista Esq.
+AV ESCOLA POLITECNICA,Av. Escola Politécnica - Pista Central
+AV ESCOLA POLITECNICA,Av. Escola Politécnica - Pista Lateral
+AV NOVA CANTAREIRA,Av. Nova Cantareira
+AV NOVE DE JULHO,Av. 9 de Julho
+VD NOVE DE JULHO,Vd. 9 de Julho
+VD NOVE DE JULHO,Vd. 9 de Julho - Pista Dir.
+VD NOVE DE JULHO,Vd. 9 de Julho - Pista Esq.
+R COPENHAGUE,R. Copenhague
+AV GAL OLIMPIO DA SILVEIRA,Av. Gen. Olímpio da Silveira
+AV DO ORATORIO,Av. do Oratório
+AV ORDEM E PROGRESSO,Av. Ordem e Progresso
+R ORFANATO,R. do Orfanato
+R DR OSCAR EGIDIO DE ARAUJO,R. Dr. Oscar Egydio de Araújo
+AV OTAVIANO ALVES DE LIMA,Av. Otaviano Alves de Lima
+R OTTO DE ALENCAR,R. Otto de Alencar
+AV PACAEMBU,Av. Pacaembu
+R CAP PACHECO E CHAVES,R. Cap. Pacheco e Chaves
+R MAJ PALADINO,R. Maj. Paladino
+AV DEP CANTIDIO SAMPAIO,Av. Dep. Cantídio Sampaio
+AV PARADA PINTO,Av. Parada Pinto
+R PARAPUA,R. Parapuã
+R DA PASSAGEM FUNDA,R. da Passagem Funda
+AV PREF PASSOS,Av. Pref. Passos
+R DOS PATRIOTAS,R. dos Patriotas
+VD DONA PAULINA,Vd. Da. Paulina
+AV PAULISTA,Av. Paulista
+R PAULO EIRO,R. Paulo Eiró
+R DESEM PAULO PASSALAQUA,R. Des. Paulo Passaláqua
+AV PDE ORLANDO GARCIA DA SILVEIRA,Av. Pe. Orlando Garcia da Silveira
+AV PEDRO BUENO,Av. Pedro Bueno
+AV GAL PEDRO LEON SCHNEIDER,Av. Gen. Pedro Leon Schneider
+AV DOM PEDRO I,Av. D. Pedro I - Pista Central
+AV DOM PEDRO I,Av. D. Pedro I - Pista Lateral
+AV DOM PEDRO I,Av. D. Pedro I
+PQ DOM PEDRO II,Prq. D. Pedro II
+AV PEDROSO DE MORAIS,Av. Pedroso de Morais
+AV PENHA DE FRANCA,Av. Penha de França
+R JOSE BARROS MAGALDI,R. José Barros Magaldi
+R ALM PEREIRA GUIMARAES,R. Alm. Pereira Guimarães
+R ALM PESTANA,R. Alm. Pestana
+R JUAN DE LA CRUZ,R. Juan de La Cruz
+R PIO XI,R. Pio XI
+AV ELISEU DE ALMEIDA,Av. Eliseu de Almeida
+AV ELISEU DE ALMEIDA,Av. Eliseu de Almeida - Pista Lateral
+AV CARLOS LACERDA,Av. Carlos Lacerda
+R PIRES DO RIO,R. Pires do Rio
+R DR PLINIO BARRETO,R. Dr. Plínio Barreto
+ES DE POA,Est. de Poá
+AV POMPEIA,Av. Pompéia
+R DA PRATA,R. da Prata
+R MANUEL ARCE,R. Manuel Arce
+AV PRESTES MAIA,Av. Prestes Maia - Pista Lateral
+AV PRESTES MAIA,Av. Prestes Maia
+R CAP PUCCI,R. Cap. Pucci
+AV SEN QUEIROS,Av. Sen. Queirós - Pista Esq.
+AV SEN QUEIROS,Av. Sen. Queirós
+AV SEN QUEIROS,Av. Sen. Queirós - Pista Dir.
+AV QUEIROZ FILHO,Av. Queiroz Filho
+R S RAIMUNDO,R. São Raimundo
+AV RAIMUNDO PEREIRA DE MAGALHAES,Av. Raimundo Pereira de Magalhães
+AV RANGEL PESTANA,Av. Rangel Pestana
+AV RANGEL PESTANA,Av. Rangel Pestana - Pista Dir.
+AV RANGEL PESTANA,Av. Rangel Pestana - Pista Esq.
+VIA RAPOSO TAVARES,Rod. Raposo Tavares (SP-270)
+R REACAO,R. Reação
+AV REBOUCAS,Av. Rebouças
+AV REPUBLICA DO LIBANO,Av. República do Líbano
+R RHONE,R. Rhone
+R RIBEIRO LACERDA,R. Ribeiro Lacerda
+AV DR RICARDO JAFET,Av. Dr. Ricardo Jafet
+AV RIO BRANCO,Av. Rio Branco
+AV RIO DAS PEDRAS,Av. Rio das Pedras
+ES DA RIVIERA,Est. da Riviera
+R CEL RODOVALHO,R. Cel. Rodovalho
+R RODOVALHO JUNIOR,R. Rodovalho Jr.
+AV RUBEM BERTA,Av. Rubem Berta - Pista Central
+AV RUBEM BERTA,Av. Rubem Berta
+AV RUBEM BERTA,Av. Rubem Berta - Pista Lateral
+AV RUBENS FRAGA DE TOLEDO ARRUDA,R. Rubens Fraga de Toledo Arruda
+AV RUDGE,Av. Rudge
+R RUI BARBOSA,R. Rui Barbosa
+PC DA SE,Pç. da Sé
+R SALVADOR DE MEDEIROS,R. Salvador de Medeiros
+R SAMARITA,R. Samaritá
+AV COMEN SANT ANNA,Av. Comendador Sant  Anna
+AV SANTOS DUMONT,Av. Santos Dumont - Pista Esq.
+AV SANTOS DUMONT,Av. Santos Dumont
+AV SANTOS DUMONT,Av. Santos Dumont - Pista Dir.
+AV SANTOS DUMONT,Av. Santos Dumont - Pista Lateral
+AV MAL TITO,Av. Mal. Tito
+R SAPETUBA,R. Sapetuba
+R SAPETUBA,R. Sapetuba - Pista Dir.
+R SAPETUBA,R. Sapetuba - Pista Esq.
+AV SAPOPEMBA,Av. Sapopemba
+R SARAPUI,R. Sarapuí
+R ENG SATURNINO DE BRITO,R. Eng. Saturnino de Brito
+R ENG OSCAR AMERICANO,Av. Eng. Oscar Americano
+R SENA MADUREIRA,R. Sena Madureira
+R SERGIO TOMAS,R. Sérgio Tomás
+LG SETE DE SETEMBRO,Lg. Sete de Setembro
+AV CEL SEZEFREDO FAGUNDES,Av. Cel. Sezefredo Fagundes
+R CEDROLANDIA,R. Cedrolândia
+R SILVA AIROSA,R. Silva Airosa
+R SILVA BUENO,R. Silva Bueno
+R SILVA TELES,R. Silva Teles
+AV DR SYLVIO DE CAMPOS,Av. Dr. Sylvio de Campos
+AV PIRAJUSSARA,Av. Pirajussara
+AV SUMARE,Av. Sumaré
+R SUSANA RODRIGUES,R. Suzana Rodrigues
+R TABAPUA,R. Tabapuã
+R TABOR,R. Tabor
+R TACITO DE ALMEIDA,R. Tácito de Almeida
+ES DAS TAIPAS,Est. das Taipas
+AV DOS TAJURAS,Av. dos Tajurás
+R TAQUARI,R. Taquari
+R TAQUARICHIM,R. Taquarichim
+R COMTE TAYLOR,R. Comandante Taylor
+R TEODORO SAMPAIO,R. Teodoro Sampaio
+AV BENTO GUELFI,Av. Bento Guelfi
+AV TERESA CRISTINA,Av. Teresa Cristina
+R TIBURCIO DE SOUSA,R. Tibúrcio de Sousa
+AV TIRADENTES,Av. Tiradentes - Pista Lateral
+AV TIRADENTES,Av. Tiradentes
+AV TIRADENTES,Av. Tiradentes - Pista Central
+R S TITO,R. Tito
+AV DOS BANDEIRANTES,Av. dos Bandeirantes - Pista Central
+AV DOS BANDEIRANTES,Av. dos Bandeirantes
+AV DOS BANDEIRANTES,Av. dos Bandeirantes - Pista Esq.
+AV DOS BANDEIRANTES,Av. dos Bandeirantes - Pista Lateral
+AV DOS BANDEIRANTES,Av. dos Bandeirantes - Pista Dir.
+R TRAJANO,R. Trajano
+R BR DE POMBALINHO,R. Barão de Pombalinho
+R VISC DE NANIQUE,R. Visconde de Nanique
+R TREZE DE MAIO,R. 13 de Maio
+R DOS TRILHOS,R. dos Trilhos
+R CEL TRISTAO,R. Cel. Tristão
+AV TUCURUVI,Av. Tucuruvi
+R MIGUEL CASAGRANDE,R. Miguel Casagrande
+AV HELIO PELLEGRINO,Av. Hélio Pellegrino
+VD GAL MARCONDES SALGADO,Vd. Gen. Marcondes Salgado
+R URIEL GASPAR,R. Uriel Gaspar
+AV VALENTIM GENTIL,Av. Valentim Gentil
+AV S VALERIO,Av. São Valério
+R VERGUEIRO,R. Vergueiro
+AV VILA EMA,Av. Vila Ema
+R ABILIO PEDRO RAMOS,R. Abílio Pedro Ramos
+PTE DA VILA GUILHERME,Ponte da Vila Guilherme
+AV VINTE E TRES DE MAIO,Av. 23 de Maio
+AV VITAL BRASIL,Av. Vital Brasil
+AV VITOR MANZINI,Av. Vitor Manzini
+R VOLUNTARIOS DA PATRIA,R. Voluntários da Pátria
+AV VALDEMAR FERREIRA,Av. Valdemar Ferreira
+AV WASHINGTON LUIS,Av. Washington Luís
+AV PRES WILSON,Av. Pres. Wilson
+AV YERVANT KISSAJIKIAN,Av. Yervant Kissajikian
+R DR ZUQUIM,R. Dr. Zuquim
+ES TURISTICA DO JARAGUA,Est. Turística do Jaraguá
+R LAGUNA,R. Laguna
+R MALVINA FERRARA SAMARONE,R. Malvina Ferraz Samarone
+R CEL GUILHERME ROCHA,R. Cel. Guilherme Rocha
+R MAL LEITAO DE CARVALHO,R. Mal. Leitão de Carvalho
+R AIAMA,R. Aiamá
+VD DR PLINIO DE QUEIROZ,Vd. Dr. Plínio de Queiroz
+AV DR ANTONIO MARIA LAET,Av. Dr. Antônio Maria Laet
+R MIN FRANCISCO CAMPOS,R. Min. Francisco Campos
+AV ROQUE PETRONI JUNIOR,Av. Roque Petroni Jr.
+R JOAO CASAGRANDE,R. João Casagrande
+AV JORGE JOAO SAAD,Av. Jorge João Saad
+R DR AUDISIO DE ALENCAR,R. Dr. Audísio de Alencar
+R SATURNINO PEREIRA,R. Saturnino Pereira
+R PROF MAXIMO RIBEIRO NUNES,R. Prof. Máximo Ribeiro Nunes
+VD DR MANUEL JOSE CHAVES,Vd. Dr. Manuel José Chaves
+VD COMEN ELIAS NAGIB BREIM,Vd. Elias Nagib Breim
+VD GRANDE SAO PAULO VER M O SALA,Vd. Grande São Paulo
+TN MAX FEFFER,Túnel Max Feffer
+R MASSINET SORCINELLI,R. Massinet Sorcinelli
+VD DIARIO POPULAR,Vd. Diário Popular
+VD TRINTA E UM DE MARCO,Vd. 31 de Março
+AV PROF LUIZ IGNACIO ANHAIA MELLO,Av. Prof. Luis Ignácio de Anhaia Mello
+R CAP MANOEL DE FREITAS NOVAES,R. Cap. Manoel de Freitas Novaes
+VD JOAO JULIAO DA COSTA AGUIAR,Vd. João Julião da Costa Aguiar
+R ANTONIO SARKIS,R. Antônio Sarkis
+R PROF MANOELITO DE ORNELLAS,R. Prof. Manoelito de Ornellas
+R LIMOEIRO DE ANADIA,R. Limoeiro de Anadia
+ES DE ITAQUAQUECETUBA,Est. de Itaquaquecetuba
+PTE DR MIGUEL ARRAES,Ponte Aricanduva
+AV PROF VICENTE RAO,Av. Prof. Vicente Rao
+AV PROF VICENTE RAO,Av. Prof. Vicente Rao - Pista Central
+AV PROF VICENTE RAO,Av. Prof. Vicente Rao - Pista Esquerda
+PTE ENG ARY TORRES,Ponte Eng. Ary Torres
+AV DOMINGOS DE SOUZA MARQUES,Av. Domingos de Souza Marques
+AV SALIM FARAH MALUF,Av. Salim Farah Maluf
+AV SALIM FARAH MALUF,Av. Salim Farah Maluf - Pista Central
+AV SALIM FARAH MALUF,Av. Salim Farah Maluf - Pista Lateral
+AV ROGERIO ALVES DE TOLEDO,Av. Rogério Alves de Toledo
+PTE PRES JANIO QUADROS,Ponte da Vila Maria
+R IZIDORO MATHEUS,R. Izidoro Matheus
+R JUVENAL GOMES COIMBRA,R. Juvenal Gomes Coimbra
+R ANTONIO PATRICIO,R. Antônio Patrício
+AV OLAVO FONTOURA,Av. Olavo Fontoura
+AV FUAD LUTFALLA,Av. Fuad Lutfalla
+R PAINEIRA DO CAMPO,R. Paineira do Campo
+PTE CRUZEIRO DO SUL,Ponte Cruzeiro do Sul
+R LUIS CARLOS GENTILE DE LAET,R. Luís Carlos Gentile de Laet
+R OLIVEIRA FORTES,R. Oliveira Fortes
+ES DE PERUS,Est. de Perus
+ES STA INES,Est. Santa Inês
+R CARMOPOLIS DE MINAS,R. Carmópolis de Minas
+R BENEDITO MONTEIRO,R. Benedito Monteiro
+PTE ATTILIO FONTANA,Ponte Attílio Fontana
+R MANOEL MONTEIRO DE ARAUJO,Av. Manoel Monteiro de Araújo
+PTE DO PIQUERI,Ponte do Piqueri
+R GIOVANNI DE LUCCA,R. Giovanni de Lucca
+PTE ADHEMAR F. DA SILVA,Ponte do Limão
+PTE JORN WALTER ABRAHAO,Ponte da Casa Verde
+R ROSAS DE OURO,R. Rosas de Ouro
+AV MIGUEL CONEJO,Av. Miguel Conejo
+PTE FREGUESIA DO O,Ponte Freguesia do Ó
+VD ANTARTICA,Vd. Antártica
+R JOSE SZAKALL,R. José Szakall
+VD PACAEMBU,Vd. Pacaembu
+VD GAZETA DO IPIRANGA,Vd. Gazeta do Ipiranga
+VD PACHECO E CHAVES,Vd. Cap. Pacheco e Chaves
+PTE CARMEN FERNANDES NEVES,Ponte dos Remédios
+VD MIGUEL MOFARREJ,Vd. Miguel Mofarrej
+R ANDRIES BOTH,R. Andries Both
+R ANTOINE BOURDELLE,Marg. Pinheiros
+VD DONA MATILDE,Vd. Da. Matilde
+ES PIRAJUSSARA-VALO VELHO,Estrada Pirajussara Valo Velho
+R ANTONIO MOREIRA,R. Antônio Moreira
+R JOAQUIM RIBEIRO,R. Joaquim Ribeiro
+R EMBIRA,R. Embira
+ES S PAULO-JUNDIAI,Est. São Paulo-Jundiaí
+VD STO AMARO,Vd. Santo Amaro
+PTE CAIO POMPEU DE TOLEDO,Ponte do Morumbi
+LG LOS ANDES,R. Los Angeles
+AV DR HUGO BEOLCHI,Av. Dr. Hugo Beolchi
+AV JORN ROBERTO MARINHO,Av. Jornalista Roberto Marinho
+AC A AV AFFONSO D. TAUNAY,Av. Affonso D Escragnolle Taunay
+VD DANTE DELMANTO,Vd. Dante Delmanto
+VD DOS BANDEIRANTES,Vd. dos Bandeirantes
+VD BRESSER,Vd. Bresser
+VD WASHINGTON LUIS,Vd. Washington Luís
+PTE STO DIAS DA SILVA,Ponte do Socorro
+AV PAULO GUILGUER REIMBERG,Av. Paulo Guilguer Reimberg
+VD ENG ORLANDO MURGEL,Vd. Eng. Orlando Murgel
+R JOSE JOAQUIM MOREDO,R. José Joaquim Moredo
+R PIETRO GIANNOCCARO,R. Pietro Giannoccaro
+AV SADAMU INOUE,Av. Sadamu Inoue
+R EDUARDO VIANA,R. Eduardo Viana
+VD OKUHARA KOEI,Vd. Okuhara Koei
+R VINICIUS DE MORAES,R. Vinícius de Moraes
+VD ARMANDO PUGLISI,Vd. Armando Puglisi
+VD MAEST ALBERTO MARINO,Vd. Maestro Alberto Marino
+VD ANTONIO NAKASHIMA,Vd. Antônio Nakashima
+VD DR EUSEBIO STEVAUX,Vd. Dr. Eusébio Stevaux
+AV RADIAL LESTE-OESTE,Av. Radial Leste-Oeste
+AV PAULO VI,Av. Paulo VI
+ES VELHA DO BORORE,Est. do Bororé
+AV PAST CICERO CANUTO DE LIMA,Av. Pastor Cícero Canuto de Lima
+R MELO FREIRE,R. Melo Freire - Pista Lateral
+R MELO FREIRE,R. Melo Freire
+AV VER JOAO DE LUCA,Av. Ver. João de Luca
+AV EMERICO RICHTER,Av. Emérico Richter
+ES DO CAMPO LIMPO,Est. do Campo Limpo
+R SURAIA AIDAR MENON,R. Profa. Suraia Aidar Menon
+R DESEM JOSE GONCALVES SANTANA,R. Des. José Gonçalves Santana
+R HELY LOPES MEIRELLES,R. Hely Lopes Meirelles
+VD BRIG LUIZ ANTONIO,Vd. Brigadeiro Luiz Antônio
+PTE DA CIDADE UNIVERSITARIA,Ponte Cidade Universitária
+PTE JOAO DIAS,Ponte João Dias
+VD BORGES LAGOA,Vd. Borges Lagoa
+VD WANDERLEY TAFFO JUNIOR,Vd. Jabaquara
+VD RAIMUNDO PEREIRA DE MAGALHAES,Vd. Raimundo Pereira de Magalhaes
+PTE DEP RICARDO IZAR,Ponte Tatuapé
+VD VINTE E CINCO DE MARCO,Vd. 25 de Março
+PTE HIRANT SANAZAR,Ponte do Jaguaré
+PTE PRES DUTRA,Ponte da Vila Maria
+VD DO GLICERIO,Vd. Glicério
+VD ONZE DE JUNHO,Av. 11 de Junho
+VD PIRES DO RIO,Vd. Pires do Rio
+VD JACEGUAI,Vd. Jaceguai
+VD MERCURIO,Av. Mercúrio
+AV MOREIRA GUIMARAES,Av. Moreira Guimarães
+AV MOREIRA GUIMARAES,Av. Moreira Guimarães - Pista Lateral
+AV GUIDO CALOI,Av. Guido Caloi
+ES ENG MARCILAC,Est. Engenheiro Marcilac
+AV LUIZ DUMONT VILLARES,Av. Luís Dumont Villares
+VD ENG ALBERTO BADRA,Vd. Eng. Alberto Badra
+AV MIN PETRONIO PORTELA,Av. Min. Petrônio Portela
+VD MIN ALIOMAR BALEEIRO,Vd. Min. Aliomar Baleeiro
+VD UNICO GALLAFRIO,Vd. Único Galláfrio
+ES DO CIPO,Est. do Cipó
+AV NICOLAS BOER,Av. Nicolas Boer
+TN JORN ODON PEREIRA,Túnel Jornalista Odon Pereira
+VD JOSE BONIFACIO C NOGUEIRA,Vd. José Bonifácio Coutinho Nogueira
+AV DR CHUCRI ZAIDAN,Av. Dr. Chucri Zaidan
+VD DEP ANTONIO SYLVIO CUNHA BUENO,Vd. Dep. Antonio Silva Cunha Bueno
+R PALMORINO MONACO,R. Palmorino Mônaco
+VIA PARQUE,Via Parque
+TN JORN FERNANDO VIEIRA DE MELLO,Túnel Fernando Vieira de Mello
+AV JORN PAULO ZINGG,Av. Jornalista Paulo Zingg
+VD STA GENEROSA,Vd. Santa Generosa
+AV PRES TANCREDO NEVES,Av. Pres. Tancredo Neves
+AV DEP JACOB SALVADOR ZVEIBIL,Av. Dep. Jacob Salvador Zveibil
+AV ARQ VILANOVA ARTIGAS,Av. Arquiteto Vilanova Artigas
+ES IGUATEMI,Est. Iguatemi
+AV VER ABEL FERREIRA,Av. Ver. Abel Ferreira
+VD DA CHINA,Av. Prof. Alípio de Barros
+AV SEN AURO SOARES DE MOURA ANDRADE,Av. Auro Soares de Moura Andrade
+R DR ANTONINO DOS SANTOS ROCHA,R. Dr. Antonino dos Santos Rocha
+PTE TRANSAMERICA,Ponte Transamérica
+VD HONESTINO MONTEIRO GUIMARAES,Vd. Honestino Monteiro Guimarães
+VD SONIA MARIA DE MORAES A. JONES,Vd. Sônia Maria Moraes Angel Jones
+VD FREDERICO EDUARDO MAYR,Vd. Frederico Eduardo Mayr
+R PAULO LORENZANI,R. Paulo Lorenzani
+AV EDUCA PAULO FREIRE,Av. Educador Paulo Freire
+PTE BERNARDO GOLDFARB,Ponte Bernardo Goldfarb
+VD DONA MORA GUIMARAES,Vd. Da. Mora Guimarães
+VD DEP ULISSES GUIMARAES,Vd. Dep. Ulysses Guimarães
+AV CARLOS CALDEIRA FILHO,Av. Carlos Caldeira Filho
+AV ALBERTO AUGUSTO ALVES,Av. Alberto Augusto Alves
+VD AUSTREGESILO DE ATHAYDE,Vd. Austregésilo de Athayde
+CV DR EURYCLIDES DE JESUS ZERBINI,Túnel Dr. Euryclídes de Jesus Zerbini
+CV MARIA MALUF,Complexo Viário Maria Maluf
+TN PRES JANIO QUADROS,Túnel Pres. Jânio Quadros
+CV AYRTON SENNA,Túnel Ayrton Senna
+CV TRIBUNAL DE JUSTICA DO E SP,Túnel Tribunal de Justiça
+AV CHEDIT JAFET,Av. Chedid Jafet
+TN SEBASTIAO CAMARGO,Túnel Sebastião Camargo
+VD ALBERTO MESQUITA DE CAMARGO,Vd. Prof. Alberto Mesquita de Camargo
+AV JACU-PESSEGO N.TRABALHADORES,Av. Jacu-Pêssego
+AV PROF TELEMACO H M VAN LANGENDLONCK,Av. Prof. Dr. Telêmaco Hippolyto de Macedo Van Langendonck
+PSS TOM JOBIM,Túnel Tom Jobim
+PTE JULIO DE MESQUITA NETO,Ponte Júlio de Mesquita Neto
+R RACIONALISMO CRISTAO,R. Racionalismo Cristão
+VD REPUBLICA DA ARMENIA,Vd. República da Armênia
+R PROF GERALDO ATALIBA,R. Prof. Geraldo Ataliba
+AV HENRIQUE CHAMMA,Av. Henrique Chamma
+AV JOAO DORIA,Av. João Dória
+VD DEP LUIS EDUARDO M. DE MAGALHAES,Vd. Luis Eduardo Magalhães
+CV JOAO JORGE SAAD,Complexo Viário João Jorge Saad
+VD GOV ROBERTO ABREU SODRE,Vd. Gov. Roberto Abreu Sodré
+TN DAHER ELIAS CUTAIT,Túnel Dr. Daher Elias Cutait
+TN NOITE ILUSTRADA,Túnel Noite Ilustrada
+TN JOSE ROBERTO F MELHEM,Túnel José Roberto Fanganiello Melhem
+TN TAKEHARU AKAGAWA,Túnel Takeharu Akagawa
+TN PAPA JOAO PAULO II,Túnel Papa João Paulo II
+AV JAIR RIBEIRO DA SILVA,Av. Jair Ribeiro da Silva
+PTE OCTAVIO FRIAS DE OLIVEIRA,Ponte Octávio Frias de Oliveira
+VD FRANCISCO NIETO MARTIN,Vd. Francisco Nieto Martin
+VD ENG JOAO BIRMAN,Vd. Eng. João Birman
+AV RIACHO DOS MACHADOS,Av. Riacho dos Machados
+R HENRI BOUCHARD,R. Henri Bouchard
+R ALONSO CARBONELL,R. Alonso Carbonell
+R GABRIEL FAURE,R. Gabriel Faure
+AV ENGENHO NOVO,Av. Engenho Novo
+R DOMINGOS MARCHETTI,R. Domingos Marchetti
+R OLHO D AGUA DO BORGES,R. Olho D Água do Borges
+R RINALDO RIVETTI,R. Rinaldo Rivetti
+R VER CID GALVAO DA SILVA,R. Ver. Cid Galvão da Silva
+R JOSE FELIX,R. José Félix
+R CAREIRO,R. Careiro
+R MANOEL VELASCO,R. Manuel Velasco
+R ANTONIO ARANHA,Av. Luiz Gushiken
+R HELIO DE BARROS,R. Hélio de Barros
+R LUIZ OLIVIERI,R. Luiz Olivieri
+R POLICARPO DA CRUZ,R. Policarpo da Cruz
+R INACIO MONTEIRO,R. Inácio Monteiro
+R MOGEIRO,R. Mogeiro
+AV TOMAS RABELO E SILVA,Av. Tomás Rabelo e Silva
+R REV JOSE DE AZEVEDO GUERRA,R. Reverendo José de Azevedo Guerra
+R BRIG HAROLDO VELOSO,R. Brig. Haroldo Veloso
