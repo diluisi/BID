@@ -61,17 +61,16 @@ def linestr(df):
 #------------------------------------------------------------------------------
 # LEITURA DO ARQUIVO
 #------------------------------------------------------------------------------
-# Arquivo > objeto dataframe
 
 # Sao Paulo
-sp_df_30min_345 = pd.read_csv('/home/diluisi/Documentos/BID_Project/Projeto_Final/sp_30min_345.csv',parse_dates=['30min'])
+sp_df_30min_345 = pd.read_csv('sp_30min_345.csv',parse_dates=['30min'])
 sp_df_30min_345['length'] = sp_df_30min_345['length']/1000
-sp_df_30min_45 = pd.read_csv('/home/diluisi/Documentos/BID_Project/Projeto_Final/sp_30min_45.csv',parse_dates=['30min'])
+sp_df_30min_45 = pd.read_csv('sp_30min_45.csv',parse_dates=['30min'])
 sp_df_30min_45['length'] = sp_df_30min_45['length']/1000
 
 
 # street option
-option_list = pd.read_csv('/home/diluisi/Documentos/BID_Project/Projeto_Final/option_list')
+option_list = pd.read_csv('option_list')
 
 coords = pd.DataFrame({"region": ["Sao Paulo - Brazil", "Quito - Ecuador", "Miraflores - Peru", "Montevideo - Uruguay"], 
                        "city_la":[-23.506226,-0.111780,-12.029391,-34.782417], 
@@ -203,9 +202,6 @@ app.layout = html.Div(
                                         value='HD',
                                         #labelStyle={'display': 'inline-block'}
                                     ),
-                        #html.P(
-                        #    """According to parameters selection, the traffic congestion indicator is shown below."""
-                        #),
                         html.Br(),
                        dcc.Graph(id="indicator-graph"),
                        # atualização automática
@@ -235,24 +231,6 @@ app.layout = html.Div(
 #------------------------------------------------------------------------------
 # CALL BACKS
 #------------------------------------------------------------------------------
-# Update Map Graph based on date-picker, selected data on histogram and location dropdown
-#@app.callback(
-#    Output('map-graph', 'figure'),
-#    Input('date-picker', 'start_date'),
-#    Input('date-picker', 'end_date'),
-#    Input("category-dropdown", "value"),
-#    Input("location-dropdown", "value"),
-#    Input("region-dropdown", "value"),
-#    Input("check-day", "value"),
-#    Input("hist_rt", "value"),
-#    Input('interval-component', 'n_intervals')
-#)
-#def update_map(s_date, e_date, category, location,region,chk_day,hist_rt,n):
-#    
-#    city_df_30min_345, city_df_30min_45 = df_pick(region)
-#    
-#
-#    return fig
 
 # Histogram
 @app.callback(
@@ -321,13 +299,7 @@ def update_graph(s_date, e_date, category, location, region,chk_day,hist_rt,n):
                 figb = px.scatter_mapbox(lat=[coords[coords['region']==region].city_la.iloc[0]], lon=[coords[coords['region']==region].city_lo.iloc[0]], zoom=3,height=500)
                 figb.update_layout(mapbox_style="carto-positron", mapbox_zoom=12, mapbox_center_lat = coords[coords['region']==region].mpbx_center.iloc[0], 
                                   margin={"r":0,"t":0,"l":0,"b":0})     
-            else:
-#                start_date = dt.datetime.strptime(s_date, "%Y-%m-%d")
-#                if e_date == None:
-#                    finish_date = dt.datetime.strptime(s_date, "%Y-%m-%d") + dt.timedelta(days=1) - dt.timedelta(seconds=1)
-#                else:
-#                    finish_date = e_date
-                                   
+            else:                                 
                 if chk_day == 'ALL':
                     df55 = city_df_30min_45[(city_df_30min_45['30min'].between(start_date,finish_date)) & (city_df_30min_45['new_street']==location)].drop_duplicates(subset=['line_geojson'], keep='first').copy()
                 elif chk_day == 'BD':
@@ -344,15 +316,13 @@ def update_graph(s_date, e_date, category, location, region,chk_day,hist_rt,n):
                 figb.update_layout(mapbox_style="carto-positron", mapbox_zoom=12, mapbox_center_lat = dff['lat'].mean(), 
                                   margin={"r":0,"t":0,"l":0,"b":0})
     else:
-        map_live = pd.read_csv('/home/diluisi/Documentos/BID_Project/Projeto_Final/map.csv')
+        map_live = pd.read_csv('map.csv')
         if category == '3-4-5':
             figb = px.line_mapbox(map_live, lat='latitude', lon='longitude',color_discrete_sequence=['red'],zoom=2,height=500)
             figb.update_layout(mapbox_style="carto-positron",margin={"r":0,"t":0,"l":0,"b":0},  mapbox_zoom=12,mapbox_center_lat = map_live['latitude'].mean(),uirevision=True)
         elif category == '4-5':
             figb = px.line_mapbox(map_live[map_live['level']!=3], lat='latitude', lon='longitude',color_discrete_sequence=['red'],zoom=2,height=500)
-            figb.update_layout(mapbox_style="carto-positron",margin={"r":0,"t":0,"l":0,"b":0},  mapbox_zoom=12,mapbox_center_lat = map_live[map_live['level']!=3].latitude.mean(),uirevision=True)    
-    
-    
+            figb.update_layout(mapbox_style="carto-positron",margin={"r":0,"t":0,"l":0,"b":0},  mapbox_zoom=12,mapbox_center_lat = map_live[map_live['level']!=3].latitude.mean(),uirevision=True)      
     
     # ATUALIZA HISTOGRAMA
     if hist_rt == "HD":
@@ -585,7 +555,7 @@ def update_graph(s_date, e_date, category, location, region,chk_day,hist_rt,n):
         fig_a.update_traces(title_font_color="white", delta_increasing_color="#FB0D0D",delta_decreasing_color="#00FE35",number_font_color="white")
         
     else:
-        sp_df_5min = pd.read_csv('/home/diluisi/Documentos/BID_Project/Projeto_Final/traffic_now.csv',parse_dates=['5min'])
+        sp_df_5min = pd.read_csv('traffic_now.csv',parse_dates=['5min'])
         sp_df_5min['length'] = sp_df_5min['length']/1000
         if category == '3-4-5':
             # base filtrada pela data
@@ -600,11 +570,11 @@ def update_graph(s_date, e_date, category, location, region,chk_day,hist_rt,n):
             df7 = df6[['time_hm','new_street','length']].groupby(['time_hm','new_street']).mean().reset_index()
             df8 = df7[['time_hm','length']].groupby(['time_hm']).sum().reset_index()
             
-            hist_45 = pd.read_csv('/home/diluisi/Documentos/BID_Project/Projeto_Final/historico_345.csv',parse_dates=['time_hm'])
+            hist_45 = pd.read_csv('historico_345.csv',parse_dates=['time_hm'])
             hist_45['time_hm'] = hist_45['time_hm'].dt.strftime('%H:%M')
             
             # Figura
-            hist_345 = pd.read_csv('/home/diluisi/Documentos/BID_Project/Projeto_Final/historico_345.csv',parse_dates=['time_hm'])
+            hist_345 = pd.read_csv('historico_345.csv',parse_dates=['time_hm'])
             hist_345['time_hm'] = hist_345['time_hm'].dt.strftime('%H:%M')
 
             fig = go.Figure()
@@ -650,11 +620,11 @@ def update_graph(s_date, e_date, category, location, region,chk_day,hist_rt,n):
             df7 = df6[['time_hm','new_street','length']].groupby(['time_hm','new_street']).mean().reset_index()
             df8 = df7[['time_hm','length']].groupby(['time_hm']).sum().reset_index()
             
-            hist_45 = pd.read_csv('/home/diluisi/Documentos/BID_Project/Projeto_Final/historico_45.csv',parse_dates=['time_hm'])
+            hist_45 = pd.read_csv('historico_45.csv',parse_dates=['time_hm'])
             hist_45['time_hm'] = hist_45['time_hm'].dt.strftime('%H:%M')
             
             # Figura
-            hist_45 = pd.read_csv('/home/diluisi/Documentos/BID_Project/Projeto_Final/historico_45.csv',parse_dates=['time_hm'])
+            hist_45 = pd.read_csv('historico_45.csv',parse_dates=['time_hm'])
             hist_45['time_hm'] = hist_45['time_hm'].dt.strftime('%H:%M')
 
             fig = go.Figure()
