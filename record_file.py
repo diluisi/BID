@@ -27,7 +27,7 @@ client_id = 'Fundacao+Getulio+Vargas'
 cities = ['Sao Paulo 1','Sao Paulo 2', 'Sao Paulo 3']
 
 # arquivos de DE PARA
-de_para_sp = pd.read_csv('/home/diluisi/Documentos/BID_Project/Projeto_Final/sp_streets.txt')
+de_para_sp = pd.read_csv('sp_streets.txt')
 
 # polígonos
 WAZE_POLYGONS = {
@@ -103,6 +103,6 @@ while True:
     df_hist['5min'] = df_hist['timestamp'].dt.round('5min')
     df_hist['time_hm'] = df_hist['5min'].dt.strftime('%H:%M')
     
-    df_hist.to_csv('/home/diluisi/Documentos/BID_Project/Projeto_Final/traffic_now.csv', mode='a', header=False, index=False)
+    df_hist.to_csv('traffic_now.csv', mode='a', header=False, index=False)
     
     time.sleep(300)
