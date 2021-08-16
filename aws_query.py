@@ -81,7 +81,7 @@ def query_transf(start_date, end_date, month , year):
     df = query_execution(start_date, end_date, month , year)
         
     # arquivos de DE PARA
-    de_para = pd.read_csv('/home/diluisi/Documentos/BID_Project/Projeto_Final/sp_streets.txt')
+    de_para = pd.read_csv('sp_streets.txt')
     
     # conversão para lista
     wl1 = de_para['street'].to_list()
