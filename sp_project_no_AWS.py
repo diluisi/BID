@@ -597,7 +597,7 @@ def update_graph(s_date, e_date, category, location, region,chk_day,hist_rt,n):
         sp_df_5min['length'] = sp_df_5min['length']/1000
         if category == '3-4-5':
             # base filtrada pela data
-            df1 = sp_df_5min[sp_df_5min['5min']>=dt.date.today()].dropna().copy()
+            df1 = sp_df_5min[sp_df_5min['5min']>=pd.Timestamp('today')].dropna().copy()
             # obtendo a soma de congestionamento por segmento
             df2 = df1[['5min','new_street','length','time_hm']].groupby(['5min','new_street','time_hm']).sum().reset_index()
             df3 = df2[['time_hm','new_street','length']].groupby(['time_hm','new_street']).mean().reset_index()
@@ -647,7 +647,7 @@ def update_graph(s_date, e_date, category, location, region,chk_day,hist_rt,n):
             
         else:
             # base filtrada pela data
-            df1 = sp_df_5min[(sp_df_5min['5min']>=dt.date.today()) & (sp_df_5min['level']>=4)].dropna().copy()
+            df1 = sp_df_5min[(sp_df_5min['5min']>=pd.Timestamp('today')) & (sp_df_5min['level']>=4)].dropna().copy()
             # obtendo a soma de congestionamento por segmento
             df2 = df1[['5min','new_street','length','time_hm']].groupby(['5min','new_street','time_hm']).sum().reset_index()
             df3 = df2[['time_hm','new_street','length']].groupby(['time_hm','new_street']).mean().reset_index()
