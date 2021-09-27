@@ -597,7 +597,7 @@ def update_graph(s_date, e_date, category, location, region,chk_day,hist_rt,n):
         sp_df_5min['length'] = sp_df_5min['length']/1000
         if category == '3-4-5':
             # base filtrada pela data
-            df1 = sp_df_5min[sp_df_5min['5min']>=pd.Timestamp('today')].dropna().copy()
+            df1 = sp_df_5min[sp_df_5min['5min']>=pd.Timestamp('today').floor('D')].dropna().copy()
             # obtendo a soma de congestionamento por segmento
             df2 = df1[['5min','new_street','length','time_hm']].groupby(['5min','new_street','time_hm']).sum().reset_index()
             df3 = df2[['time_hm','new_street','length']].groupby(['time_hm','new_street']).mean().reset_index()
@@ -638,7 +638,7 @@ def update_graph(s_date, e_date, category, location, region,chk_day,hist_rt,n):
             fig_a = go.Figure()
             fig_a.add_trace(go.Indicator(
             mode = "number+delta",
-            value = np.float(df4[df4['time_hm']==np.max(df4['time_hm'])].length),
+            value = df4[df4['time_hm']==np.max(df4['time_hm'])].length.values[0],
             title = {"text": "Traffic Congestion Indicator<br><span style='font-size:0.8em;color:gray'>Traffic congestion in km</span><br><span style='font-size:0.8em;color:gray'>% variation Last update vs Baseline</span>"},
             delta = {'reference': np.float(hist_345[hist_45['time_hm']==np.max(df4['time_hm'])]['mean']), 'relative': True},
             domain = {'x': [0, 1], 'y': [0, 1]}))
@@ -647,7 +647,7 @@ def update_graph(s_date, e_date, category, location, region,chk_day,hist_rt,n):
             
         else:
             # base filtrada pela data
-            df1 = sp_df_5min[(sp_df_5min['5min']>=pd.Timestamp('today')) & (sp_df_5min['level']>=4)].dropna().copy()
+            df1 = sp_df_5min[(sp_df_5min['5min']>=pd.Timestamp('today').floor('D')) & (sp_df_5min['level']>=4)].dropna().copy()
             # obtendo a soma de congestionamento por segmento
             df2 = df1[['5min','new_street','length','time_hm']].groupby(['5min','new_street','time_hm']).sum().reset_index()
             df3 = df2[['time_hm','new_street','length']].groupby(['time_hm','new_street']).mean().reset_index()
@@ -688,7 +688,7 @@ def update_graph(s_date, e_date, category, location, region,chk_day,hist_rt,n):
             fig_a = go.Figure()
             fig_a.add_trace(go.Indicator(
             mode = "number+delta",
-            value = np.float(df4[df4['time_hm']==np.max(df4['time_hm'])].length),
+            value = df4[df4['time_hm']==np.max(df4['time_hm'])].length.values[0],
             title = {"text": "Traffic Congestion Indicator<br><span style='font-size:0.8em;color:gray'>Traffic congestion in km</span><br><span style='font-size:0.8em;color:gray'>% variation Mean vs Mean baseline</span>"},
             delta = {'reference': np.float(hist_45[hist_45['time_hm']==np.max(df4['time_hm'])]['mean']), 'relative': True},
             domain = {'x': [0, 1], 'y': [0, 1]}))
